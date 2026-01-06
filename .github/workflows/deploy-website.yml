@@ -1,0 +1,30 @@
+name: Fetch, build and deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetching branch
+        uses: actions/checkout@v2.3.1
+        with:
+          ref: master
+
+      - name: Installing PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
+
+      - name: Compile PHP files
+        run: make build
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.3
+        with:
+          branch: gh-pages
+          folder: public
+          clean: true
