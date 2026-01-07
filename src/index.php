@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <?php
-      $title = "AlexFlipnote";
+      $title = "WilliamAcosta";
       $description = "My personal homepage";
       $path = "/";
 
@@ -32,10 +32,10 @@
             </div>
           </section>
           <div class="buttons">
-            <a href="https://discord.gg/DpxkY3x" class="btn discord-dropshadow white-text animation hover" target="_blank">Discord</a>
+            <a href="https://discord.gg/PgYtk5udkf" class="btn discord-dropshadow white-text animation hover" target="_blank">Discord</a>
             <a href="mailto:root@alexflipnote.dev" class="btn emerald-dropshadow black-text animation hover">Email</a>
-            <a href="https://github.com/AlexFlipnote" class="btn github-dropshadow white-text animation hover" target="_blank">GitHub</a>
-            <a href="/branding" class="btn sun-flower-dropshadow black-text animation hover" target="_blank">Branding</a>
+            <a href="https://github.com/WilliamAcosta1" class="btn github-dropshadow white-text animation hover" target="_blank">GitHub</a>
+            <a href="/branding" class="btn instagram-dropshadow black-text animation hover" target="_blank">Instagram</a>
             <a href="/playground" class="btn orange-dropshadow black-text animation hover" target="_blank">Playground</a>
             <a href="/docs" class="btn peter-river-dropshadow white-text animation hover" target="_blank">Docs</a>
           </div>
