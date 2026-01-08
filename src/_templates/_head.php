@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 <meta name="theme-color" content="#14bae4"/>
 <link rel="icon" type="image/x-icon" href="/static/images/favicon.ico"></link>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" type="text/css" rel="stylesheet">
 <meta property="og:image" content="/static/images/branding/avatar.png" />
 
 <meta content="<?php echo $title ?? "Title"; ?>" property="og:title"/>
