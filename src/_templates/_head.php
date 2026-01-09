@@ -16,13 +16,13 @@
 <meta content="<?php echo $description ?? "default description"; ?>" name="description"/>
 
 <meta name="revisit-after" content="2 days"/>
-<meta name="keywords" content="<?php echo $keywords ?? "AlexFlipnote, Twitter, Developer, Github"; ?>"/>
+<meta name="keywords" content="<?php echo $keywords ?? "WilliamAcosta, Twitter, Developer, Github"; ?>"/>
 <meta property="og:locale" content="en_GB"/>
 <link rel="canonical" href="<?php echo "{$URL}{$path}"; ?>" />
 <meta property="og:url" content="<?php echo "{$URL}{$path}"; ?>" />
-<meta property="og:site_name" content="AlexFlipnote"/>
+<meta property="og:site_name" content="WilliamAcosta"/>
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:site" content="@AlexFlipnote"/>
+<meta name="twitter:site" content="@WilliamAcosta0"/>
 
 <!-- CSS -->
 <link href="/static/css/modesta.css" type="text/css" rel="stylesheet">
