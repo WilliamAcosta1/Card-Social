@@ -27,7 +27,7 @@
             <div class="unset">
               <h1 class="title dropshadow-small">WilliamAcosta</h1>
               <p class="undertitle runescape dropshadow-medium" id="discord-status-loading">
-                I do develop stuff, yes yes
+                Date of death 15/08/2026
               </p>
             </div>
           </section>
@@ -35,11 +35,8 @@
             <a href="https://discord.gg/PgYtk5udkf" class="btn discord-dropshadow white-text animation hover" target="_blank"> <i class="fab fa-discord"></i> Discord</a>
             <a href="https://github.com/WilliamAcosta1" class="btn github-dropshadow white-text animation hover" target="_blank"><i class="fab fa-github"></i> GitHub</a>
             <a href="https://www.facebook.com/share/1PqJGf1ika/" class="btn facebook-dropshadow white-text animation hover" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="https://www.instagram.com/williamacosta014" class="btn instagram-dropshadow white-text animation hover" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
-            <a href="https://www.tiktok.com/@williamacostadev" class="btn black-dropshadow white-text animation hover" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a>
             <a href="https://open.spotify.com/user/31kystwfa3k3xwvb6j5uqfeeymue?si=1QlNlnl7R4ey2X6m86zfGg" class="btn spotify-dropshadow white-text animation hover" target="_blank"><i class="fab fa-spotify"></i> Spotify</a>
             <a href="https://t.me/WilliamAcosta" class="btn telegram-dropshadow white-text animation hover" target="_blank"><i class="fab fa-telegram"></i> Telegram</a>
-            <a href="https://wa.me/34672800241" class="btn whatsapp-dropshadow white-text animation hover" target="_blank"><i class="fab fa-whatsapp"></i> Whatsapp</a>
           </div>
         </div>
       </div>
