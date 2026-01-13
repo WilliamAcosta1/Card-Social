@@ -27,7 +27,7 @@
             <div class="unset">
               <h1 class="title dropshadow-small">WilliamAcosta</h1>
               <p class="undertitle runescape dropshadow-medium" id="discord-status-loading">
-                Date of death 15/08/2026
+                I do develop stuff, yes yes
               </p>
             </div>
           </section>
