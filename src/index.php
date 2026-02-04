@@ -103,5 +103,12 @@
       </div>
 
     </section>
+
+    <!-- CSS -->
+    <link href="/static/css/modesta.css" type="text/css" rel="stylesheet">
+    <link href="/static/css/markdown.css" type="text/css" rel="stylesheet">
+    <link href="/static/css/emojis.css" type="text/css" rel="stylesheet">
+    <link href="/static/css/custom.css" type="text/css" rel="stylesheet">
+    
   </body>
 </html>

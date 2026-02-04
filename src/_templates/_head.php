@@ -24,11 +24,5 @@
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@WilliamAcosta0"/>
 
-<!-- CSS -->
-<link href="/static/css/modesta.css" type="text/css" rel="stylesheet">
-<link href="/static/css/markdown.css" type="text/css" rel="stylesheet">
-<link href="/static/css/emojis.css" type="text/css" rel="stylesheet">
-<link href="/static/css/custom.css" type="text/css" rel="stylesheet">
-
 <!-- JavaScript -->
 <script src="/static/js/main.js" type="text/javascript" charset="utf-8"></script>
