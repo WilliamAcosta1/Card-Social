@@ -1,7 +1,8 @@
 /* Runescape font */
+@import url('https://fonts.cdnfonts.com/css/runescape-uf');
+
 @font-face {
   font-family: "runescape";
-  src: url("/static/fonts/runescape.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
