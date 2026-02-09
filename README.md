@@ -1,5 +1,5 @@
 # alexflipnote.github.io
-This is my personal website that is shown at https://alexflipnote.dev.
+This is my personal website that is shown at https://williamacosta.xyz.
 
 ## How does it work?
 This website is built using PHP and static HTML files. When pushing everything, I simply run `make build` which runs a custom-made PHP compiler to generate everything needed while also copying the necessary files to the output directory.
